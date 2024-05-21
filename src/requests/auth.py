@@ -5,6 +5,7 @@ requests.auth
 This module contains the authentication handlers for Requests.
 """
 
+
 import hashlib
 import os
 import re
